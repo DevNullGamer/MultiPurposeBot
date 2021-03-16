@@ -1,4 +1,5 @@
 {
     "name":"Insert your bot name here",
-    "pass":"Insert your bot token password here"
+    "pass":"Insert your bot token password here",
+    "SecretToken":"Add Your token here"
 }
